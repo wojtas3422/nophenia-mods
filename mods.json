@@ -1,0 +1,32 @@
+[
+    {
+        "author": "BdE",
+        "mod_name": "Nophenia MP",
+        "description": "Allows you to play the nophenia game together (˶ᵔ ᵕ ᵔ˶)",
+        "download_url": "https://github.com/BdEgh/nophenia-mp/releases/latest/download/com-multiplayer.zip"
+    },
+    {
+        "author": "wojtasa",
+        "mod_name": "Teleport Menu",
+        "description": "Allows you to teleport to any stage you want.",
+        "download_url": "https://github.com/wojtas3422/nophenia-teleport-menu/releases/latest/download/wojtasa-TeleportMenu.zip"
+    },
+    {
+        "author": "wojtasa",
+        "mod_name": "Stage Loader",
+        "description": "Allows you to play custom stages made by the community",
+        "download_url": "https://github.com/wojtas3422/nophenia-level-loader/releases/latest/download/wojtasa-stageLoader.zip"
+    },
+    {
+        "author": "Nodesrelda",
+        "mod_name": "Debug Menu",
+        "description": "Simple debug menu for nophenia, most notably allows flight (modified by wojtasa for Godot Mod Loader support)",
+        "download_url": "https://github.com/wojtas3422/nophenia-mods/raw/refs/heads/main/wojtasa-debugMenu.zip"
+    },
+    {
+        "author": "Ideal",
+        "mod_name": "Custom Music",
+        "description": "Allows you to customize the in-game music, refer to steam guide found in the nophenia discord for info",
+        "download_url": "https://github.com/wojtas3422/nophenia-mods/raw/refs/heads/main/mod-audio.zip"
+    },
+]
