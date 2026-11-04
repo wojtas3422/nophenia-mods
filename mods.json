@@ -29,4 +29,10 @@
         "description": "Allows you to customize the in-game music, refer to steam guide found in the nophenia discord for info.",
         "download_url": "https://github.com/wojtas3422/nophenia-mods/raw/refs/heads/main/mod-audio.zip"
     },
+    {
+        "author": "Vizardo",
+        "mod_name": "Backflip",
+        "description": "nia backflip.",
+        "download_url": "https://github.com/slimhakw/nophenia-backflip/releases/latest/download/slimhakw-Backflip.zip"
+    },
 ]
