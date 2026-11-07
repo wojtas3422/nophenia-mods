@@ -35,4 +35,10 @@
         "description": "nia backflip.",
         "download_url": "https://github.com/slimhakw/nophenia-backflip/releases/latest/download/slimhakw-Backflip.zip"
     },
+    {
+        "author": "totobono4",
+        "mod_name": "french-dream",
+        "description": "Fan-made French translation.",
+        "download_url": "https://github.com/totobono4/nophenia-french_dream/releases/latest/download/totobono4-french_dream.zip"
+    },
 ]
