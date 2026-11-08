@@ -38,7 +38,13 @@
     {
         "author": "totobono4",
         "mod_name": "french-dream",
-        "description": "Fan-made French translation.",
+        "description": "Fan-made French translation. REQUIERS DREAM TRANSLATOR API",
         "download_url": "https://github.com/totobono4/nophenia-french_dream/releases/latest/download/totobono4-french_dream.zip"
+    },
+    {
+        "author": "totobono4",
+        "mod_name": "Dream translator api",
+        "description": "Core mod for fan-made translations.",
+        "download_url": "https://github.com/totobono4/nophenia-dream_translator_api/releases/latest/download/totobono4-dream_translator_api.zip"
     },
 ]
